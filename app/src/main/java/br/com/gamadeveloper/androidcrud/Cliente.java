@@ -2,6 +2,10 @@ package br.com.gamadeveloper.androidcrud;
 
 import java.io.Serializable;
 
+/**
+ * Created by Denilson R Gama em 08/08/2018.
+ */
+
 public class Cliente implements Serializable {
 
     private int id;
