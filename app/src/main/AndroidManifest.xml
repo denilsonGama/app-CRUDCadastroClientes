@@ -19,7 +19,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".content_cadastro"></activity>
+        <activity android:name=".content_cadastro" />
+        <activity android:name=".item_lista" />
     </application>
 
 </manifest>
